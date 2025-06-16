@@ -42,7 +42,7 @@ Smart Technical Documentation Assistant using Retrieval-Augmented Generation (RA
 ### 🧠 [Fine-Tune-Model](https://github.com/diya02327/Fine-Tune-Model)  
 IMDb sentiment classification using DistilBERT. Covers the entire fine-tuning lifecycle with evaluation and deployment-ready components.
 
-### 📉 [PCOS Prediction Project](https://github.com/diya02327/PCOS-ML-Prediction)  
+### 📉 [PCOS Detection Project](https://github.com/diya02327/PCOS-detection-using-Machine-Learning)  
 Analyzed and predicted Polycystic Ovary Syndrome (PCOS) using machine learning techniques. Included feature selection, model comparison, and healthcare context impact.
 
 ---
