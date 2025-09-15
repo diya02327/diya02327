@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Diya Gandhi
 
 🎓 Graduate Student in Information Systems @ Northeastern University  
-📍 Based in Boston, MA | 💼 Actively seeking Fall 2025 internships (ML / NLP / Data Science / GenAI)  
+📍 Based in Boston, MA | 💼 Actively seeking Spring 2026 internships (ML / NLP / Data Science / GenAI)  
 🧠 I love building intelligent systems that solve real-world problems — especially with AI, data, and code.
 
 ---
